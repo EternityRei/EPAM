@@ -1,0 +1,13 @@
+package com.epam.rd.autotasks;
+
+public class GraduallyDecreasingCarousel extends DecrementingCarousel{
+    public GraduallyDecreasingCarousel(final int capacity) {
+        super(capacity);
+    }
+
+
+    @Override
+    int modifyElement(int val, int amountOfDecCarousel){
+        return val - amountOfDecCarousel;
+    }
+}
