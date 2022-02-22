@@ -1,4 +1,4 @@
-nt String Capped Map
+Int String Capped Map
 
 The purpose of this exercise is to train you in implementing Collections.
 
