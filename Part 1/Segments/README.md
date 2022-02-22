@@ -1,4 +1,5 @@
 Segments
+
 The purpose of this exercise is to train you to work with classes and methods.
 
 Estimated workload of this exercise is 45 min.
